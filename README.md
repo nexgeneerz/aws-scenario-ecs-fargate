@@ -2,7 +2,7 @@
 
 This sample project is part of the "Cloud Computing on AWS" article series and represents a complete, production-grade 
 setup of a container-based application on ECS on Fargate. [You can find the related article with in-depth 
-information about this project here](https://nexgeneerz.io/aws-computing-with-ecs-ec2-terraform/).
+information about this project here](https://nexgeneerz.io/how-to-setup-amazon-ecs-fargate-terraform/).
 
 The demo project helps you to get a basic understanding of how ECS on Fargate works and what is possible with it. 
 
